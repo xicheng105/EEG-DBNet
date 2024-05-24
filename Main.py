@@ -312,7 +312,7 @@ def set_gpu_device(gpu_index):
 # %% Running
 def run(DataSet='BCI2a'):
     # Get a dataset path
-    set_gpu_device(5)
+    set_gpu_device(0)
 
     # Create a folder to store the results of the experiment
     results_path = os.getcwd() + "/results"
