@@ -1,0 +1,152 @@
+
+Training on subject 1
+Subject: 1   Train no. 1   Time: 6.8 m   Test_acc: 0.8158   Test_kappa: 0.6348
+Subject: 1   Train no. 2   Time: 7.4 m   Test_acc: 0.7982   Test_kappa: 0.5988
+Subject: 1   Train no. 3   Time: 9.5 m   Test_acc: 0.8158   Test_kappa: 0.6326
+Subject: 1   Train no. 4   Time: 8.3 m   Test_acc: 0.8070   Test_kappa: 0.6145
+Subject: 1   Train no. 5   Time: 6.9 m   Test_acc: 0.8070   Test_kappa: 0.6171
+Subject: 1   Train no. 6   Time: 5.1 m   Test_acc: 0.8114   Test_kappa: 0.6231
+Subject: 1   Train no. 7   Time: 4.8 m   Test_acc: 0.7588   Test_kappa: 0.5216
+Subject: 1   Train no. 8   Time: 6.9 m   Test_acc: 0.8026   Test_kappa: 0.6050
+Subject: 1   Train no. 9   Time: 7.2 m   Test_acc: 0.8026   Test_kappa: 0.6080
+Subject: 1   Train no. 10   Time: 7.3 m   Test_acc: 0.8509   Test_kappa: 0.7019
+----------
+Subject: 1   best_run: 10   Time: 70.3 m   acc: 0.8509   avg_acc: 0.8070 +- 0.0213   kappa: 0.7019   avg_kappa: 0.6157 +- 0.0418
+----------
+
+Training on subject 2
+Subject: 2   Train no. 1   Time: 4.3 m   Test_acc: 0.7224   Test_kappa: 0.4446
+Subject: 2   Train no. 2   Time: 4.3 m   Test_acc: 0.7224   Test_kappa: 0.4443
+Subject: 2   Train no. 3   Time: 4.8 m   Test_acc: 0.7184   Test_kappa: 0.4367
+Subject: 2   Train no. 4   Time: 4.4 m   Test_acc: 0.7061   Test_kappa: 0.4124
+Subject: 2   Train no. 5   Time: 4.1 m   Test_acc: 0.7388   Test_kappa: 0.4774
+Subject: 2   Train no. 6   Time: 4.2 m   Test_acc: 0.7224   Test_kappa: 0.4449
+Subject: 2   Train no. 7   Time: 4.2 m   Test_acc: 0.7510   Test_kappa: 0.5018
+Subject: 2   Train no. 8   Time: 4.3 m   Test_acc: 0.7429   Test_kappa: 0.4857
+Subject: 2   Train no. 9   Time: 4.7 m   Test_acc: 0.7143   Test_kappa: 0.4283
+Subject: 2   Train no. 10   Time: 5.8 m   Test_acc: 0.7347   Test_kappa: 0.4694
+----------
+Subject: 2   best_run: 7   Time: 45.1 m   acc: 0.7510   avg_acc: 0.7273 +- 0.0133   kappa: 0.5018   avg_kappa: 0.4545 +- 0.0265
+----------
+
+Training on subject 3
+Subject: 3   Train no. 1   Time: 3.3 m   Test_acc: 0.8826   Test_kappa: 0.7640
+Subject: 3   Train no. 2   Time: 5.4 m   Test_acc: 0.8783   Test_kappa: 0.7559
+Subject: 3   Train no. 3   Time: 3.5 m   Test_acc: 0.8913   Test_kappa: 0.7800
+Subject: 3   Train no. 4   Time: 5.9 m   Test_acc: 0.9174   Test_kappa: 0.8339
+Subject: 3   Train no. 5   Time: 3.3 m   Test_acc: 0.8739   Test_kappa: 0.7440
+Subject: 3   Train no. 6   Time: 3.8 m   Test_acc: 0.8826   Test_kappa: 0.7632
+Subject: 3   Train no. 7   Time: 3.5 m   Test_acc: 0.8783   Test_kappa: 0.7538
+Subject: 3   Train no. 8   Time: 5.0 m   Test_acc: 0.8826   Test_kappa: 0.7645
+Subject: 3   Train no. 9   Time: 6.6 m   Test_acc: 0.8783   Test_kappa: 0.7556
+Subject: 3   Train no. 10   Time: 6.0 m   Test_acc: 0.9043   Test_kappa: 0.8090
+----------
+Subject: 3   best_run: 4   Time: 46.4 m   acc: 0.9174   avg_acc: 0.8870 +- 0.0130   kappa: 0.8339   avg_kappa: 0.7724 +- 0.0267
+----------
+
+Training on subject 4
+Subject: 4   Train no. 1   Time: 7.1 m   Test_acc: 0.9805   Test_kappa: 0.9609
+Subject: 4   Train no. 2   Time: 4.2 m   Test_acc: 0.9772   Test_kappa: 0.9544
+Subject: 4   Train no. 3   Time: 6.7 m   Test_acc: 0.9805   Test_kappa: 0.9609
+Subject: 4   Train no. 4   Time: 6.5 m   Test_acc: 0.9805   Test_kappa: 0.9609
+Subject: 4   Train no. 5   Time: 6.1 m   Test_acc: 0.9837   Test_kappa: 0.9674
+Subject: 4   Train no. 6   Time: 7.0 m   Test_acc: 0.9837   Test_kappa: 0.9674
+Subject: 4   Train no. 7   Time: 5.4 m   Test_acc: 0.9805   Test_kappa: 0.9609
+Subject: 4   Train no. 8   Time: 6.2 m   Test_acc: 0.9837   Test_kappa: 0.9674
+Subject: 4   Train no. 9   Time: 4.6 m   Test_acc: 0.9837   Test_kappa: 0.9674
+Subject: 4   Train no. 10   Time: 4.4 m   Test_acc: 0.9772   Test_kappa: 0.9544
+----------
+Subject: 4   best_run: 5   Time: 58.2 m   acc: 0.9837   avg_acc: 0.9811 +- 0.0024   kappa: 0.9674   avg_kappa: 0.9622 +- 0.0049
+----------
+
+Training on subject 5
+Subject: 5   Train no. 1   Time: 5.5 m   Test_acc: 0.9890   Test_kappa: 0.9780
+Subject: 5   Train no. 2   Time: 4.5 m   Test_acc: 0.9890   Test_kappa: 0.9780
+Subject: 5   Train no. 3   Time: 6.5 m   Test_acc: 0.9780   Test_kappa: 0.9561
+Subject: 5   Train no. 4   Time: 5.0 m   Test_acc: 0.9927   Test_kappa: 0.9853
+Subject: 5   Train no. 5   Time: 4.2 m   Test_acc: 0.9890   Test_kappa: 0.9780
+Subject: 5   Train no. 6   Time: 4.6 m   Test_acc: 0.9817   Test_kappa: 0.9634
+Subject: 5   Train no. 7   Time: 6.0 m   Test_acc: 0.9853   Test_kappa: 0.9707
+Subject: 5   Train no. 8   Time: 8.4 m   Test_acc: 0.9927   Test_kappa: 0.9853
+Subject: 5   Train no. 9   Time: 4.6 m   Test_acc: 0.9744   Test_kappa: 0.9487
+Subject: 5   Train no. 10   Time: 5.0 m   Test_acc: 0.9707   Test_kappa: 0.9414
+----------
+Subject: 5   best_run: 4   Time: 54.2 m   acc: 0.9927   avg_acc: 0.9842 +- 0.0073   kappa: 0.9853   avg_kappa: 0.9685 +- 0.0147
+----------
+
+Training on subject 6
+Subject: 6   Train no. 1   Time: 8.1 m   Test_acc: 0.9004   Test_kappa: 0.8004
+Subject: 6   Train no. 2   Time: 9.1 m   Test_acc: 0.9044   Test_kappa: 0.8084
+Subject: 6   Train no. 3   Time: 6.1 m   Test_acc: 0.9243   Test_kappa: 0.8483
+Subject: 6   Train no. 4   Time: 4.6 m   Test_acc: 0.8964   Test_kappa: 0.7924
+Subject: 6   Train no. 5   Time: 4.1 m   Test_acc: 0.8964   Test_kappa: 0.7928
+Subject: 6   Train no. 6   Time: 5.3 m   Test_acc: 0.9004   Test_kappa: 0.8001
+Subject: 6   Train no. 7   Time: 4.5 m   Test_acc: 0.9004   Test_kappa: 0.8004
+Subject: 6   Train no. 8   Time: 45.1 m   Test_acc: 0.8964   Test_kappa: 0.7925
+Subject: 6   Train no. 9   Time: 4.6 m   Test_acc: 0.9004   Test_kappa: 0.8003
+Subject: 6   Train no. 10   Time: 4.3 m   Test_acc: 0.9124   Test_kappa: 0.8246
+----------
+Subject: 6   best_run: 3   Time: 95.8 m   acc: 0.9243   avg_acc: 0.9032 +- 0.0084   kappa: 0.8483   avg_kappa: 0.8060 +- 0.0168
+----------
+
+Training on subject 7
+Subject: 7   Train no. 1   Time: 4.4 m   Test_acc: 0.9310   Test_kappa: 0.8622
+Subject: 7   Train no. 2   Time: 8.3 m   Test_acc: 0.9440   Test_kappa: 0.8878
+Subject: 7   Train no. 3   Time: 4.3 m   Test_acc: 0.9440   Test_kappa: 0.8878
+Subject: 7   Train no. 4   Time: 4.9 m   Test_acc: 0.9353   Test_kappa: 0.8708
+Subject: 7   Train no. 5   Time: 6.2 m   Test_acc: 0.9526   Test_kappa: 0.9052
+Subject: 7   Train no. 6   Time: 6.4 m   Test_acc: 0.9483   Test_kappa: 0.8965
+Subject: 7   Train no. 7   Time: 4.6 m   Test_acc: 0.9440   Test_kappa: 0.8879
+Subject: 7   Train no. 8   Time: 5.4 m   Test_acc: 0.9440   Test_kappa: 0.8879
+Subject: 7   Train no. 9   Time: 4.3 m   Test_acc: 0.9526   Test_kappa: 0.9052
+Subject: 7   Train no. 10   Time: 5.0 m   Test_acc: 0.9440   Test_kappa: 0.8879
+----------
+Subject: 7   best_run: 5   Time: 53.9 m   acc: 0.9526   avg_acc: 0.9440 +- 0.0064   kappa: 0.9052   avg_kappa: 0.8879 +- 0.0127
+----------
+
+Training on subject 8
+Subject: 8   Train no. 1   Time: 4.3 m   Test_acc: 0.9565   Test_kappa: 0.9129
+Subject: 8   Train no. 2   Time: 4.9 m   Test_acc: 0.9304   Test_kappa: 0.8609
+Subject: 8   Train no. 3   Time: 4.7 m   Test_acc: 0.9565   Test_kappa: 0.9129
+Subject: 8   Train no. 4   Time: 6.9 m   Test_acc: 0.9652   Test_kappa: 0.9302
+Subject: 8   Train no. 5   Time: 4.9 m   Test_acc: 0.9565   Test_kappa: 0.9128
+Subject: 8   Train no. 6   Time: 4.8 m   Test_acc: 0.9435   Test_kappa: 0.8870
+Subject: 8   Train no. 7   Time: 4.4 m   Test_acc: 0.9696   Test_kappa: 0.9390
+Subject: 8   Train no. 8   Time: 6.4 m   Test_acc: 0.9348   Test_kappa: 0.8694
+Subject: 8   Train no. 9   Time: 4.0 m   Test_acc: 0.9565   Test_kappa: 0.9130
+Subject: 8   Train no. 10   Time: 4.4 m   Test_acc: 0.9609   Test_kappa: 0.9216
+----------
+Subject: 8   best_run: 7   Time: 50.0 m   acc: 0.9696   avg_acc: 0.9530 +- 0.0121   kappa: 0.9390   avg_kappa: 0.9060 +- 0.0242
+----------
+
+Training on subject 9
+Subject: 9   Train no. 1   Time: 4.5 m   Test_acc: 0.8816   Test_kappa: 0.7628
+Subject: 9   Train no. 2   Time: 8.7 m   Test_acc: 0.9020   Test_kappa: 0.8038
+Subject: 9   Train no. 3   Time: 4.4 m   Test_acc: 0.8857   Test_kappa: 0.7712
+Subject: 9   Train no. 4   Time: 4.0 m   Test_acc: 0.8694   Test_kappa: 0.7381
+Subject: 9   Train no. 5   Time: 5.3 m   Test_acc: 0.8857   Test_kappa: 0.7713
+Subject: 9   Train no. 6   Time: 4.1 m   Test_acc: 0.8490   Test_kappa: 0.6970
+Subject: 9   Train no. 7   Time: 4.4 m   Test_acc: 0.8735   Test_kappa: 0.7465
+Subject: 9   Train no. 8   Time: 5.2 m   Test_acc: 0.8980   Test_kappa: 0.7958
+Subject: 9   Train no. 9   Time: 6.3 m   Test_acc: 0.8939   Test_kappa: 0.7876
+Subject: 9   Train no. 10   Time: 4.0 m   Test_acc: 0.8816   Test_kappa: 0.7630
+----------
+Subject: 9   best_run: 2   Time: 51.0 m   acc: 0.9020   avg_acc: 0.8820 +- 0.0147   kappa: 0.8038   avg_kappa: 0.7637 +- 0.0295
+----------
+
+Time: 8.7 h   
+
+Subject: 1   best_run: 10  acc: 0.8509   kappa: 0.7019   avg_acc: 0.8070 +- 0.0213   avg_kappa: 0.6157 +- 0.0418
+Subject: 2   best_run: 7   acc: 0.7510   kappa: 0.5018   avg_acc: 0.7273 +- 0.0133   avg_kappa: 0.4545 +- 0.0265
+Subject: 3   best_run: 4   acc: 0.9174   kappa: 0.8339   avg_acc: 0.8870 +- 0.0130   avg_kappa: 0.7724 +- 0.0267
+Subject: 4   best_run: 5   acc: 0.9837   kappa: 0.9674   avg_acc: 0.9811 +- 0.0024   avg_kappa: 0.9622 +- 0.0049
+Subject: 5   best_run: 4   acc: 0.9927   kappa: 0.9853   avg_acc: 0.9842 +- 0.0073   avg_kappa: 0.9685 +- 0.0147
+Subject: 6   best_run: 3   acc: 0.9243   kappa: 0.8483   avg_acc: 0.9032 +- 0.0084   avg_kappa: 0.8060 +- 0.0168
+Subject: 7   best_run: 5   acc: 0.9526   kappa: 0.9052   avg_acc: 0.9440 +- 0.0064   avg_kappa: 0.8879 +- 0.0127
+Subject: 8   best_run: 7   acc: 0.9696   kappa: 0.9390   avg_acc: 0.9530 +- 0.0121   avg_kappa: 0.9060 +- 0.0242
+Subject: 9   best_run: 2   acc: 0.9020   kappa: 0.8038   avg_acc: 0.8820 +- 0.0147   avg_kappa: 0.7637 +- 0.0295
+Average of 9 subjects - best runs:
+Accuracy = 0.9160   Kappa = 0.8318
+
+Average of 9 subjects x 10 runs (average of 90 experiments):
+Accuracy = 0.8965   Kappa = 0.7930
