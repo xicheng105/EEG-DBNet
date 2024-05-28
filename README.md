@@ -21,6 +21,6 @@ https://bnci-horizon-2020.eu/database/data-sets.
   
   year={2024},
   
-  doi={http://arxiv.org/abs/2405.16090}
+  doi=http://arxiv.org/abs/2405.16090
   
 }
