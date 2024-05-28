@@ -5,21 +5,21 @@ This is just a temporary repository; we haven't perfected it yet. However, this 
 <https://github.com/Altaheri/EEG-ATCNet>, 
 
 with additional datasets and preprocessing methods added.
-&nbsp;
+<br/>
 The datasets used in this project (BCI Competition 2a and 2b) were downloaded from: 
 
 <https://bnci-horizon-2020.eu/database/data-sets>.
-&nbsp;
+<br/>
 @article{lou2022eegdbnet, 
 
-  title={EEG-DBNet: A Dual-Branch Network for Temporal-Spectral Decoding in Motor-Imagery Brain-Computer Interfaces}, 
+&nbsp; title={EEG-DBNet: A Dual-Branch Network for Temporal-Spectral Decoding in Motor-Imagery Brain-Computer Interfaces}, 
   
-  author={Xicheng Lou, Xinwei Li, Hongying Meng, Jun Hu, Meili Xu, Yue Zhao, Jiazhang Yang, and Zhangyong Li}, 
+&nbsp; author={Xicheng Lou, Xinwei Li, Hongying Meng, Jun Hu, Meili Xu, Yue Zhao, Jiazhang Yang, and Zhangyong Li}, 
   
-  journal={arXiv preprint arXiv:2405.16090}, 
+&nbsp; journal={arXiv preprint arXiv:2405.16090}, 
   
-  year={2024},
+&nbsp; year={2024},
   
-  doi={<https://arxiv.org/abs/2405.16090>}
+&nbsp; doi={<https://arxiv.org/abs/2405.16090>}
   
 }
