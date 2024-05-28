@@ -12,9 +12,15 @@ https://bnci-horizon-2020.eu/database/data-sets.
 
 
 @article{lou2022eegdbnet, 
+
   title={EEG-DBNet: A Dual-Branch Network for Temporal-Spectral Decoding in Motor-Imagery Brain-Computer Interfaces}, 
+  
   author={Xicheng Lou, Xinwei Li, Hongying Meng, Jun Hu, Meili Xu, Yue Zhao, Jiazhang Yang, and Zhangyong Li}, 
+  
   journal={arXiv preprint arXiv:2405.16090}, 
+  
   year={2024},
+  
   doi={http://arxiv.org/abs/2405.16090}
+  
 }
