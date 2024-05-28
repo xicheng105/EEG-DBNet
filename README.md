@@ -1,6 +1,6 @@
 # EEG-DBNet
 
-This is just a temporary repository; we haven't perfected it yet. However, this does not affect the file's operation. The files main.py and preprocessing.py are modified based on the following repository: 
+> This is just a temporary repository; we haven't perfected it yet. However, this does not affect the file's operation. The files main.py and preprocessing.py are modified based on the following repository: 
 
 https://github.com/Altaheri/EEG-ATCNet, 
 
